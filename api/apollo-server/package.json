@@ -1,0 +1,31 @@
+{
+  "name": "apollo-server-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.6.1",
+    "apollo-server-koa": "^2.1.0",
+    "graphql": "^14.0.2",
+    "mssql": "^4.2.2"
+  },
+  "devDependencies": {
+    "@types/mssql": "^4.0.10",
+    "awesome-typescript-loader": "^5.2.1",
+    "copy-webpack-plugin": "^4.6.0",
+    "html-webpack-plugin": "^3.2.0",
+    "koa-bodyparser": "^4.2.1",
+    "koa-router": "^7.4.0",
+    "reflect-metadata": "^0.1.12",
+    "typeorm": "^0.2.8",
+    "typescript": "^3.1.6",
+    "uglifyjs-webpack-plugin": "^2.0.1",
+    "webpack": "^4.25.1"
+  }
+}

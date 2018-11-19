@@ -1,0 +1,1 @@
+export { getConnection, getManager, getRepository } from 'typeorm';
